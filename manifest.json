@@ -1,7 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Bing Chat Unblocker",
-  "version": "0.1_fork",
+  "version": "0.1",
+  "version_name": "0.1_fork",
   "icons": {
     "128": "128.png"
   },
